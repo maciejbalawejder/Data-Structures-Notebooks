@@ -1,5 +1,5 @@
 # Data structure notebooks
-## A bunch of data structures implemented in Python. Designed to be viewed in GitHub. 
+### A bunch of data structures implemented in Python. Designed to be viewed in GitHub. 
 - Linked List 
   - [x] Inserting items
   - [x] Removing items 
