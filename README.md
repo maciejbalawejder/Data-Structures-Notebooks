@@ -8,4 +8,5 @@
   - [x] Inserting items
   - [x] Removing items 
   - [x] Max, min value
+ - __Balanced Binary Tree__ : 
   
