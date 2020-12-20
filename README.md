@@ -9,6 +9,6 @@
   - [x] Removing items 
   - [x] Max, min value
  - __Balanced Binary Tree(AVL)__ : 
-  - [x] Rotations
-  - [x] Same operations as BST
+    - [x] Rotations
+    - [x] Same operations as BST
   
