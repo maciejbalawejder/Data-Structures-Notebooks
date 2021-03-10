@@ -18,5 +18,4 @@
     - [x] Sorting (O(logN))
     - [x] Inserting items
     - [x] Removing max value
-    - [x] print max value   
   
