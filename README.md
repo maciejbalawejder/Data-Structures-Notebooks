@@ -4,11 +4,19 @@
   - [x] Inserting items
   - [x] Removing items 
   - [x] Inserting from the end
+ 
 - __Binary Search Tree__
   - [x] Inserting items
   - [x] Removing items 
   - [x] Max, min value
+
  - __Balanced Binary Tree(AVL)__ : 
     - [x] Rotations and description of operations
     - [x] Same operations as BST
+  
+ - __Heaps__: 
+    - [x] Sorting (O(logN))
+    - [x] Inserting items
+    - [x] Removing max value
+    - [x] print max value   
   
