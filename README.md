@@ -19,3 +19,8 @@
     - [x] Inserting items
     - [x] Removing max value
   
+ - __Hashtable__:
+    - [x] Hash function - turns string into ASCII sumed number
+    - [x] Inserting items
+    - [x] Getting item  
+  
